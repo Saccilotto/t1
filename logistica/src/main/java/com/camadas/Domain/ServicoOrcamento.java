@@ -1,4 +1,4 @@
-package com.bcopstein.SistCalculoFreteP3.Dominio;
+package com.camadas.Domain;
 
 import java.time.LocalDateTime;
 import java.util.List;

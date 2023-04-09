@@ -1,4 +1,4 @@
-package com.bcopstein.SistCalculoFreteP3.util;
+package com.camadas.Persistance;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;

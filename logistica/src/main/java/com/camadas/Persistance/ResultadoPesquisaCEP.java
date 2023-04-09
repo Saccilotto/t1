@@ -1,4 +1,4 @@
-package com.bcopstein.SistCalculoFreteP3.util;
+package com.camadas.Persistance;
 
 // Estrutura básica da classe gerada em https://app.quicktype.io/
 public class ResultadoPesquisaCEP {

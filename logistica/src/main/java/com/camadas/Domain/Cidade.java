@@ -1,4 +1,4 @@
-package com.bcopstein.SistCalculoFreteP3.Dominio;
+package com.camadas.Domain;
 
 public class Cidade {
     private long id;
